@@ -34,7 +34,7 @@ defineOptions({
             </div>
             <div
                 class="relative aspect-video overflow-hidden rounded-xl border border-sidebar-border/70 dark:border-sidebar-border"
-            >
+            ><h1>this si just smth im adding to know if the git hub error works</h1>
                 <PlaceholderPattern />
             </div>
         </div>
