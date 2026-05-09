@@ -24,7 +24,7 @@ defineOptions({
         <div class="grid auto-rows-min gap-4 md:grid-cols-3">
             <div
                 class="relative aspect-video overflow-hidden rounded-xl border border-sidebar-border/70 dark:border-sidebar-border"
-            >
+             >
                 <PlaceholderPattern />
             </div>
             <div
@@ -34,12 +34,12 @@ defineOptions({
             </div>
             <div
                 class="relative aspect-video overflow-hidden rounded-xl border border-sidebar-border/70 dark:border-sidebar-border"
-            ><h1>this si just smth im adding to know if the git hub error works</h1>
+            >
                 <PlaceholderPattern />
             </div>
         </div>
         <div
-            class="relative min-h-[100vh] flex-1 rounded-xl border border-sidebar-border/70 md:min-h-min dark:border-sidebar-border"
+            class="relative min-h-screen flex-1 rounded-xl border border-sidebar-border/70 md:min-h-min dark:border-sidebar-border"
         >
             <PlaceholderPattern />
         </div>
